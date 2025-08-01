@@ -1,0 +1,5 @@
+
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://akshayscipy2000.github.io/retalbike/sitemap.xml
